@@ -1,0 +1,60 @@
+    @font-face {
+        font-family: navfont;
+        src: url(fonts/open-sans-condensed/OpenSans-CondLight.ttf);
+    }
+
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    background-color:black;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+}
+#logo{
+    margin-left: 53px ;
+    height: 65.9px;
+    width: 120px;
+    margin-top: 17px;
+    
+}
+.menu{
+    color: #fff;
+    font-weight: 400;
+    font-family: navfont;
+    font-size: 18px;
+    display: flex;
+    float: right;
+    margin-right: 75px;
+    margin-top: -50px;
+    gap: 25px;
+    cursor: pointer;
+
+}
+#search{
+width: 23px;
+}
+#cart{
+    width: 23px;
+}
+#login{
+    width: 23px;
+}
+/* #cart{
+    margin-right: 30px;
+}
+#search{
+    margin-right: 30px;
+}
+#navcontactus{
+    margin-right: 30px;
+}
+#nav offers{
+    margin-right: 30px;
+} */
+
+

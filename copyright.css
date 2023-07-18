@@ -1,0 +1,29 @@
+@font-face {
+    font-family: copyri;
+    src: url(fonts/open-sans-condensed/OpenSans-CondLight.ttf);
+}
+.copyright{
+    height: 70px;
+    background-color: black;
+    border-top: 1px solid #666;
+
+    
+    
+}
+.copy1{
+    color: #ffc107;
+    font-family: copyri;
+    font-size: 70%;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+
+}
+.copy2{
+    color: #ffc107;
+    font-family: copyri;
+    font-size: 70%;
+    float: right;
+    margin-right: 30px;
+    margin-top: -20px;
+}

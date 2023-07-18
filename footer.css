@@ -1,0 +1,113 @@
+@font-face {
+    font-family: footfont;
+    src: url(fonts/open-sans-condensed/OpenSans-CondBold.ttf);
+}
+@font-face {
+    font-family: footfont2;
+    src: url(fonts/open-sans-condensed/OpenSans-CondLight.ttf);
+}
+.footer{
+    background-color: black;
+    height: 5.5cm;
+    display: flex;
+   
+}
+#footerlogo1{
+    width: 150px;
+    margin-left: 9.4cm;
+    margin-top: .5cm;
+}
+.foothead{
+    color: #be9509;
+    font-size: 18px;
+    font-family: footfont;
+    display: flex;
+    font-weight: 400;
+    
+    
+}
+#footn1{
+    margin-top: 18px;
+    margin-left: 1.5cm;
+    
+}
+#footn2{
+    margin-top: 18px;
+    margin-left: 100px;
+}
+#footn3{
+    margin-top: 18px;
+    margin-left: 100PX;
+   
+}
+#footn4{
+    margin-top: 18px;
+    margin-left: 130PX;
+}
+.ul1{
+    margin-top: 1cm;
+    font-size: 18px;
+    font-family: footfont2;
+    margin-left: -1cm;
+
+}
+#ull1{
+    list-style: none;
+    padding-top: .5cm;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.ul2{
+    margin-top: 1cm;
+    font-size: 18px;
+    font-family: footfont2;
+    margin-left: -1.7cm;
+
+}
+#ull2{
+    list-style: none;
+    padding-top: .5cm;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.ul3{
+    margin-top: 1cm;
+    font-size: 18px;
+    font-family: footfont2;
+    margin-left: -1.7cm;
+
+}
+#ull3{
+    list-style: none;
+    padding-top: .5cm;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.ul4{
+    margin-top: 1cm;
+    font-size: 18px;
+    font-family: footfont2;
+    margin-left: -2.3cm;
+
+}
+#ull4{
+    list-style: none;
+    padding-top: .5cm;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.footimg{
+   height: 30px;
+   
+   display: flex;
+   margin-bottom: 1cm;
+}
+.footlogo2{
+    height: 120px;
+    margin-top: 20px;
+    margin-left: 100px;
+}

@@ -1,0 +1,105 @@
+@font-face {
+    font-family:heading ;
+    src: url(fonts/open-sans-condensed/OpenSans-CondLight.ttf);
+}
+.icecreem{
+
+    background-color: white;
+    height: 30cm;
+}
+#heading{
+    padding-top: 80px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 46px;
+    font-weight: 500;
+    
+    
+    
+}
+.icecreem{
+    background-color: white;
+    
+    
+}
+.iceimage1{
+    height: 7.5cm;
+    margin-left: 10cm;
+    padding-top: 2cm;
+    
+}
+.iceimage2{
+    height: 7.5cm; 
+    padding-top: 2cm;
+}
+.iceimage3{
+    height: 7.5cm;
+    padding-top: 2cm;
+}
+.iceimage4{
+    height: 7.5cm;
+    margin-left: 10cm;
+    padding-top: 1.3cm;
+}
+.iceimage5{
+    height: 7.5cm;
+    padding-top: 1.3cm;
+}
+.iceimage6{
+    height: 7.5cm;
+    padding-top: 1.3cm;
+}
+.iceimage7{
+    height: 7.5cm;
+    margin-left: 10cm;
+    
+}
+.row1{
+    
+    display: flex;
+}
+.row2{
+   
+    display: flex;
+}
+.row3{
+    
+    display: flex;
+}
+.namerow1{
+    display: flex;
+}
+#name1{
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+    margin-left: 13cm;
+    padding: .5cm;
+}
+#name2{
+    padding: .5cm;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+    margin-left: 6cm;
+}
+#name3{
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+    margin-left: 6cm;
+    padding: .5cm;
+}
+.namerow2{
+    display: flex;
+}
+#name7{
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+    margin-left: 13cm;
+    
+}
+.pad{
+    padding-bottom: 3cm;
+}
